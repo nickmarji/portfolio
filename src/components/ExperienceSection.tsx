@@ -11,9 +11,9 @@ const experiences = [
         type: "Part-Time",
         dates: "Jan 2025 – Present",
         responsibilities: [
-          "Executed 25+ remediation actions after identifying tenant misconfigurations through CloudCapsule assessments, raising Microsoft 365 compliance score from 54% to 87% in alignment with CIS Controls and NIST CSF",
-          "Leveraged Microsoft Defender for Cloud Apps to monitor user activity and data movement across SaaS platforms, implementing real-time session controls to mitigate data exfiltration and unauthorized sharing risks",
-          "Deployed and managed 100+ corporate devices through Microsoft Intune with automated enrollment, implementing device compliance policies, app protection rules, and conditional access controls to secure BYOD and corporate endpoints",
+          "Conducted end-to-end Microsoft 365 security posture assessment, identifying and remediating 25+ tenant misconfigurations to align environment with CIS Controls and NIST CSF standards",
+          "Performed continuous log analysis and alert triage across cloud identity and endpoint telemetry to identify anomalous behavior patterns and potential security incidents",
+          "Hardened M365 environment by auditing permission scopes and enforcing least-privilege access ahead of Microsoft Copilot rollout; deployed 100+ endpoints via Intune with automated enrollment, compliance policies, and conditional access controls",
         ],
       },
       {
