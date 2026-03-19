@@ -12,7 +12,6 @@ const experiences = [
         dates: "Jan 2025 – Present",
         responsibilities: [
           "Executed 25+ remediation actions after identifying tenant misconfigurations through CloudCapsule assessments, raising Microsoft 365 compliance score from 54% to 87% in alignment with CIS Controls and NIST CSF",
-          "Supported the rollout of Enterprise ChatGPT by integrating Entra ID for SSO, implementing RBAC and Conditional Access policies, and contributing to governance controls to mitigate AI-related data leakage risks",
           "Leveraged Microsoft Defender for Cloud Apps to monitor user activity and data movement across SaaS platforms, implementing real-time session controls to mitigate data exfiltration and unauthorized sharing risks",
           "Deployed and managed 100+ corporate devices through Microsoft Intune with automated enrollment, implementing device compliance policies, app protection rules, and conditional access controls to secure BYOD and corporate endpoints",
         ],
